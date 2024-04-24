@@ -1,0 +1,1 @@
+# datafactory_terraform_private_endpoint-in-azure
